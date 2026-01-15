@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=130&section=header"/>
 
 <h1 align="center">👋 Hey, I'm Gabriel Moura</h1>
-<h1 align="center"> I build practical systems focused on business automation, data integration and performance. 💻</h1>
+<h1 align="center"> User Support & Process Improvement Specialist. 💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=30&center=true&vCenter=true&width=1000&lines=💻+Full+Stack+Dev+in+the+Making;🎓+Computer+Science+Student+@Anhanguera;🌎+From+Minas+Gerais,+Brazil;🚀" />
